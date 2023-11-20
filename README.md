@@ -1,2 +1,2 @@
 # DUPLA
-## Victor Hugo - 33 --- Danillo V- 06.
+## Guilherme Godoi N15 - 33 --- João Davantel N17

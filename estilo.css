@@ -1,29 +1,35 @@
-body{
-    background-color: darkkhaki;
+body {
+    background-color: gray;
 }
-.calc_simples{
-    background-color: darkorchid;
+.entrada{
+    width: 48px;
+    background-color: rgb(214, 202, 202);
+    border: boton;
+    border-bottom: 2px solid;
+    text-align: right;
+}
+.calc_simples {
+    background-color: darkmagenta;
     padding: 5px;
     width: 200px;
     border-radius: 5px;
 }
-.display_simples{
+.display_simples {
     width: 100%;
     text-align: center;
 }
-#resultado{
-    text-align: center;
-
+#resultado {
+    text-align: right;
 }
-.teclas{
+.teclas {
     text-align: center;
 }
-button{
+button {
     width: 40px;
     height: 40px;
-    margin-top: 3px;
+    margin: 3px;
 }
-#igual{
-    background-color: darkred;
-    color: white;
+#igual {
+    background-color: rgb(217, 255, 0);
+    color: rgb(0, 0, 0);
 }
